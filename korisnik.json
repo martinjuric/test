@@ -1,0 +1,29 @@
+{
+    "korisnik1": {
+      "id":1,
+      "name":"David",
+      "account":1000,
+      "pass": "mine"
+    },
+  
+    "korisnik2":  {
+      "id":2,
+      "name":"Martin",
+      "account":10000,
+      "pass": "sam"
+    },
+  
+    "korisnik3":  {
+      "id":3,
+      "name":"Iva",
+      "account":100,
+      "pass": "school"
+    },
+  
+    "korisnik4": {
+      "id":4,
+      "name":"Nenad",
+      "account":999999,
+      "pass": "two"
+    }
+  }
